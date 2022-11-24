@@ -16,3 +16,13 @@
     vertical-align: middle;
     border-radius: 5px;
   }
+
+  ul {
+    list-style: none;
+  }
+
+  .image-gallery {
+    /* ... */
+    /* don't add a fixed height */
+    height: 10vh;
+  }
